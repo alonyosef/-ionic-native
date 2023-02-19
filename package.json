@@ -44,7 +44,7 @@
     "cordova-android"
   ],
   "license": "Apache 2.0",
-  "name": "cordova-plugin-ionic-keyboard",
+  "name": "keyboard",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ionic-team/cordova-plugin-ionic-keyboard.git"
