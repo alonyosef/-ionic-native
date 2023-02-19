@@ -3,7 +3,7 @@
   "_id": "@ionic-native/keyboard@5.36.0",
   "_inBundle": false,
   "_integrity": "sha512-yDUG+9ieKVRitq5mGlNxjaZh/MgEhFFIgTIPhqSbUaQ8UuZbawy5mhJAVClqY97q8/rcQtL6dCDa7x2sEtCLcA==",
-  "_location": "@ionic-native\keyboards",
+  "_location": "/@ionic-native/keyboard",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
